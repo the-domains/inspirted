@@ -1,0 +1,14 @@
+layout_spectrum: 0.20764829171821475
+typography_spectrum: 0.8210167509969324
+color:
+  brandStrength: 0.946835832670331
+  lightness: 0.44671730627305806
+  saturation: 0.5555366177577525
+  rhythmicContrast: 0.26991068152710795
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: inSPIRTed
